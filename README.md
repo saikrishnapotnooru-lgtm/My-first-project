@@ -1,2 +1,2 @@
-uploaded a image 
+image uploaded successfully 
 
